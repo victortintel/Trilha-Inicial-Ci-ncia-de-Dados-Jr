@@ -1,4 +1,6 @@
-# Trilha Inicial Ciências de Dados Jr
+
+
+# Trilha Inicial Ciências de Dados Jr (VICTOR TINTEL MARTINS) 
 
 Esse projeto foi um desafio proposto para entrar como Cientista de Dados Júnior onde eu tive algumas tarefas para cumprir. Antes de tudo, para que um projeto se inicie primeiro temos que ter instalado algumas bibliotecas, então dentro do Anaconda prompt onde eu tenho a minha pasta de Ciências de dados eu instalei o pandas, numpy e o matplotlib e depois dessas instalações eu peguei os dados, coloquei no excel, fiz o tratamento deles e passei para CSV. 
 
